@@ -1,0 +1,3 @@
+git init
+git remote add origin http://103.91.44.214:8010/erp-oddo/odoo10e.git
+git pull
