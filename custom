@@ -1,3 +1,16 @@
 git init
 git remote add origin http://103.91.44.214:8010/erp-oddo/odoo10e.git
 git pull
+
+
+--- ver 8 ---
+git init
+git remote add origin http://192.168.1.254:8000/erp-oddo/vmx.git
+git pull origin develop
+--- ver 8 ---
+
+--- ver 9 ---
+git init
+git remote add origin http://192.168.1.254:8000/erp-oddo/mtg.git
+git pull origin develop
+--- ver 9 ---
