@@ -5,12 +5,14 @@ git pull
 
 --- ver 8 ---
 git init
-git remote add origin http://192.168.1.254:8000/erp-oddo/vmx.git
+git remote add origin http://192.168.1.254:8000/erp-oddo/vmx.git #ip local gitlab
+git remote add origin http://103.91.44.214:8010/erp-oddo/vmx.git #ip publik gitlab
 git pull origin develop
 --- ver 8 ---
 
 --- ver 9 ---
 git init
-git remote add origin http://192.168.1.254:8000/erp-oddo/mtg.git
+git remote add origin http://192.168.1.254:8000/erp-oddo/mtg.git #ip local gitlab
+git remote add origin http://103.91.44.214:8010/erp-oddo/mtg.git #ip publik gitlab
 git pull origin develop
 --- ver 9 ---
